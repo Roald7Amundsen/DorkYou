@@ -37,7 +37,7 @@ $ pip install -r requirements.txt
 $ python DorkYou.py
 ```
 
-![Screenshot](img/banner.png)
+![Screenshot](img/banner.PNG)
 ***
 #### Actualizar Dorks
 
