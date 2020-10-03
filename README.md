@@ -43,35 +43,35 @@ $ python DorkYou.py
 
 Simplemente se añadirán los nuevos query dorks que han sido definidos en Google Hacking Database
 
-![Screenshot](img/update.png)
+![Screenshot](img/update.PNG)
 ***
 
 #### Agregar Dorks
 
 Puedes agregar Dorks personalizados.
 
-![Screenshot](img/agregar.png)
+![Screenshot](img/agregar.PNG)
 ***
 
 #### Ejecutar Búsqueda de Dorks
 
 He aquí el corazón del aplicativo, para realizar búsquedas puntuales sobre un dominio y evitar bloqueos, requerirás una cuenta de google para crear un buscador personalizado en custom search engine "https://cse.google.com/cse/all", debes generar 2 CSE identicos en los cuales se vean involucrados los dominios de interes, pudiento limitar los resultados por idioma en caso de requerirse.
 
-![Screenshot](img/cseadd.png)
+![Screenshot](img/cseadd.PNG)
 
 Aquí es donde se define el o los dominios de búsqueda objetivo, pudiendo limitar el idioma de los resultados obtenidos.
 
-![Screenshot](img/ejemplo1.png)
+![Screenshot](img/ejemplo1.PNG)
 
 Finalmente se obtiene el enlace público CSE.
 
-![Screenshot](img/ejemplo2.png)
+![Screenshot](img/ejemplo2.PNG)
 
-![Screenshot](img/ejemplo3.png)
+![Screenshot](img/ejemplo3.PNG)
 
 Este proceso se debe ejecutar de manera idéntica, obteniendo finalmente 2 enlaces CSE relacionados con los dominios objetivo de búsqueda.
 ***
-![Screenshot](img/busqueda.png)
+![Screenshot](img/busqueda.PNG)
 
 Una vez ingresadas las cadenas CSE se da paso a la búsqueda por categorías.
 ***
@@ -100,10 +100,10 @@ Una vez ingresadas las cadenas CSE se da paso a la búsqueda por categorías.
 
 Mientras se realiza la búsqueda tendrás una barra de estado indicandote el avance de la tarea y el tiempo restante aproximado.
 
-![Screenshot](img/estado.png)
+![Screenshot](img/estado.PNG)
 
 En cuando finalice tendrás un archivo XML con todos los Dorks que han arrojado resultados y sus enlaces correspondientes
 
-![Screenshot](img/resultados.png)
+![Screenshot](img/resultados.PNG)
 
 Eso es todo!!!, disfrutalo
