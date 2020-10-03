@@ -1,0 +1,2 @@
+NA-separador-Dork personalizado-separador-inurl:r57.php
+NA-separador-Dork personalizado-separador-inurl:".php?cid=" intext:"CVV"
